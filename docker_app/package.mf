@@ -1,0 +1,2 @@
+SHA1(artifacts.tar.gz)= 6910bb2511a7ff761e67da8267162b25e1872e3d
+SHA1(package.yaml)= 8528e35786058253da12646a45723e95e80ef9d0
